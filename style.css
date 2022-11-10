@@ -1,19 +1,25 @@
 body{
-    background-color: rgb(38, 75, 85);
+    background-color: rgb(177, 219, 216);
     text-align: center;
 }
 
 .TITULO{
-    background-color: rgb(38, 48, 63);
+    background-color: rgb(70, 86, 110);
 }
 
 .TITULO2{
 
-    background-color: rgb(38, 47, 54);
+    background-color: rgb(149, 169, 175);
 }
 
 p{
     color: rgb(0, 0, 0);
+    text-align: justify;
      
 }
- 
+
+img{
+
+    align-items: center;
+
+}
